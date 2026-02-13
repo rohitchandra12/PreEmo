@@ -1,7 +1,8 @@
 # PreEmo(Facial Emotion Detector)
 ## Demo
 
-![Real-time Emotion Detection]([assets/real-time-demo-1.jpg](https://circuitdigest.com/sites/default/files/projectimage_mic/Raspberry-Pi-Facial-Expression-Recognition.jpg))
+![Real-time Emotion Detection](https://circuitdigest.com/sites/default/files/projectimage_mic/Raspberry-Pi-Facial-Expression-Recognition.jpg)
+
 *Example: Webcam detecting "happy" and "neutral" emotions*
 
 # 📝Description
